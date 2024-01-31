@@ -18,7 +18,6 @@ public class slide35chuong2 {
             System.out.println("Hai so bang nhau bang "+ min);
         }
     }
-    sc.close ();
 
 }
     
