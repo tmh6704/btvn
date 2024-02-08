@@ -18,7 +18,7 @@ import java.util.Scanner;
            sum += A[i];
         }
         double trungbinhcong = sum / n ;
-    
+        //hien thi ket qua trung binh cong (co lam tron so)
         System.out.format("Trung binh cong cua "+n+" so nguyen da nhap = %.2f", trungbinhcong);
     }
  }
